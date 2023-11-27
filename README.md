@@ -27,6 +27,8 @@ EDA_interest_final.ipynb, EDA_lodgment_final.ipynb에 진행과정이 나와있�
 ![p-value](https://github.com/khuda-4th/ml_toy_project_team3/assets/70475010/c45e9176-af4f-41f7-bf7e-b3eff64bd137)
 ![cramerv](https://github.com/khuda-4th/ml_toy_project_team3/assets/70475010/b4481892-690a-4f15-99c3-0eed11457d92)
 
+-----------
+
 ## Data Pre-processing(데이터 전처리)
 1. Feature's name is modified<br>
 특성의 이름이 수정되어 있습니다<br>
@@ -34,6 +36,8 @@ EDA_interest_final.ipynb, EDA_lodgment_final.ipynb에 진행과정이 나와있�
 회귀를 위해 여행 지역 선호 정도를 수치화하였습니다<br>
 original data: '많이 작아졌다', '약간 작아졌다', '예전과 비슷하다', '약간 커졌다', '많이 커졌다'<br>
 pre-processed data: 0, 1, 2, 3, 4
+
+-----------
 
 ## Modeling(모델링)
 1. 숙박 여행 유형 데이터 <br>
@@ -48,6 +52,8 @@ K-Means Clustering, Deicision Tree, RandomForest, XGBoost 이용하여 분석을
    ![cluster0_interest](imgs/cluster0_interest.png)
    ![cluster1_interest](imgs/cluster1_interest.png)
    ![cluster2_interest](imgs/cluster2_interest.png)
+
+-----------
 
 ## 활용방안
 국내 관광객 데이터를 활용한 여행지 선호도 분석 및 예측을 통해 소비자의 니즈에 적합한 여행지를 추천해주는 서비스를 제공할 수 있을 것이다. <br>
